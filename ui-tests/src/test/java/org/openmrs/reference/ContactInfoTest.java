@@ -25,7 +25,6 @@ import org.openmrs.uitestframework.test.TestData;
 public class ContactInfoTest extends ReferenceApplicationTestBase {
 
     private static final String VISIT_TYPE_UUID = "7b0f5697-27e3-40c4-8bae-f4049abfb4ed";
-
     private TestData.PatientInfo patient;
 
     @Before
